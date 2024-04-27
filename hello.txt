@@ -7,4 +7,6 @@
 
 wozhidao,wo 想抱着你，好可爱
 wozhidao.jijii
+
 print("i love you 我的罗毅宝宝")
+我是王镇川，我好想你
